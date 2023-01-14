@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "author": "fujii.k@b-style.net",
+    "name": "make my day",
+    "short_name": "make my day",
+    "description": "Go ahead, make my day.",
+    "chrome_url_overrides": {
+        "newtab": "html/newtab.html"
+    }
+}
